@@ -6,6 +6,5 @@
 - 06 BMI
 - 07 Dia Siguiente Bisiesto
 - 09 Cms a Kms Mts Cms
-- 10 Cuadrante
 - 11 Cuadratica
 - 16 2D quadrant
